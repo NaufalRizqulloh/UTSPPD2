@@ -48,8 +48,13 @@ void Transaksi::editTransaksi() {
 	string line, namaPelanggan, kontakPelanggan;
 	smatch match;
 
-	cout << "Data transaksi lama: " << endl;
 	int choiceInt =	t.showTransaksi();
+
+	if (choiceInt == -1) {
+		system("cls");
+		return;
+	}
+
 	char choiceChar;
 
 	// Pelanggan edit
@@ -256,6 +261,10 @@ void Transaksi::prosesTransaksi() {
 	while (1) {
 		char choiceChar;
 		int choiceInt = t.showTransaksi();
+		if (choiceInt == -1) {
+			system("cls");
+			break;
+		}
 		cout << "Apakah anda ingin memproses servis ini? (y/n) : ";
 		cin >> choiceChar;
 
@@ -347,12 +356,13 @@ int Transaksi::showTransaksi() {
 		}
 		inFile.close();
 
+		system("cls");
 		cout << "Data Pelanggan yang melakukan transaksi pada Bengkel DMITS" << endl;
 		getHeaderNames(pelangganFile);
 		cout << endl;
 		cout << "Pilih pelanggan untuk melihat data transaksi (ketik 'back' untuk kembali): ";
+		cin.ignore();
 		getline(cin, choice);
-		system("cls");
 
 		if (choice == "back") {
 			return -1;
@@ -364,6 +374,7 @@ int Transaksi::showTransaksi() {
 			cout << "Input tidak valid, masukkan angka yang ingin dipilih";
 			continue;
 		}
+		system("cls");
 
 		choiceInt = stoi(choice);
 		for (size_t i = 0; i < lines.size(); ++i) {
