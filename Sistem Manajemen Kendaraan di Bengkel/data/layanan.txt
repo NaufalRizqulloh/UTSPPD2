@@ -1,0 +1,24 @@
+1.
+Nama Layanan: Servis Ringan
+Harga Layanan: 70000
+2.
+Nama Layanan: Ganti Oli
+Harga Layanan: 20000
+3.
+Nama Layanan: Strum Aki
+Harga Layanan: 50000
+4.
+Nama Layanan: Tambal ban
+Harga Layanan: 20000
+5.
+Nama Layanan: Ganti Isi Radiator
+Harga Layanan: 5000
+6.
+Nama Layanan: Ganti ban
+Harga Layanan: 100000
+7.
+Nama Layanan: Isi angin
+Harga Layanan: 50000
+8.
+Nama Layanan: Ganti Aki
+Harga Layanan: 300000

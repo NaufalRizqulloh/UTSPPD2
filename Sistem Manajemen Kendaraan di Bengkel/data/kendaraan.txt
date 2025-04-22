@@ -1,0 +1,18 @@
+1. 
+Plat Nomor: LUV
+Tahun Kendaraan: 2025
+Tipe Kendaraan: Motor
+Keperluan Servis: Strum Aki
+ID Transaksi: 1
+2. 
+Plat Nomor: WHHHHHHHHHHHEYYYY
+Tahun Kendaraan: 2014
+Tipe Kendaraan: Motor
+Keperluan Servis: Sudah diservis
+ID Transaksi: 2
+3. 
+Plat Nomor: L2351AP
+Tahun Kendaraan: 2029
+Tipe Kendaraan: Truk
+Keperluan Servis: Strum Aki
+ID Transaksi: 3

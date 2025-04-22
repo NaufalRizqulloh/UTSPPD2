@@ -1,0 +1,5 @@
+﻿  Transaksi.cpp
+E:\! DATA BARU\PENS\Akademik\Semester 2\PPD 2\UTS\Sistem Manajemen Kendaraan di Bengkel\Sistem Manajemen Kendaraan di Bengkel\src\Transaksi.cpp(162,1): warning C4715: 'Transaksi::editPelanggan': not all control paths return a value
+E:\! DATA BARU\PENS\Akademik\Semester 2\PPD 2\UTS\Sistem Manajemen Kendaraan di Bengkel\Sistem Manajemen Kendaraan di Bengkel\src\Transaksi.cpp(212,1): warning C4715: 'Transaksi::editKendaraan': not all control paths return a value
+E:\! DATA BARU\PENS\Akademik\Semester 2\PPD 2\UTS\Sistem Manajemen Kendaraan di Bengkel\Sistem Manajemen Kendaraan di Bengkel\src\Transaksi.cpp(249,1): warning C4715: 'Transaksi::editTransaksiFile': not all control paths return a value
+  Sistem Manajemen Kendaraan di Bengkel.vcxproj -> E:\! DATA BARU\PENS\Akademik\Semester 2\PPD 2\UTS\Sistem Manajemen Kendaraan di Bengkel\x64\Debug\Sistem Manajemen Kendaraan di Bengkel.exe

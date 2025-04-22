@@ -1,0 +1,12 @@
+1. 
+Nama Pelanggan: Naufal
+Kontak Pelanggan: 61
+ID Transaksi: 1
+2. 
+Nama Pelanggan: Pram Kopling Maksima
+Kontak Pelanggan: 12315
+ID Transaksi: 2
+3. 
+Nama Pelanggan: Jawa
+Kontak Pelanggan: jawa@gmail.com
+ID Transaksi: 3

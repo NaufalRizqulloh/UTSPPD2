@@ -1,0 +1,15 @@
+1. 
+Keperluan Servis: Strum Aki
+Biaya Servis: 50000
+Mekanik Penanggung Jawab: Pram
+ID Transaksi: 1
+2. 
+Keperluan Servis: Sudah diservis
+Biaya Servis: 70000
+Mekanink Penanggung Jawab: Naufal R.
+ID Transaksi: 2
+3. 
+Keperluan Servis: Strum Aki
+Biaya Servis: 50000
+Mekanik Penanggung Jawab: Pram
+ID Transaksi: 3
